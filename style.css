@@ -1,0 +1,83 @@
+body {
+
+  font-family: Montserrat ;
+  font-size: 15px;
+  color: #3C6255 ;
+  font-weight: 200;
+  text-align: center;
+}
+
+h1 {
+  color: #3C6255;
+  font-family: Montserrat Alternates ;
+  font-size: 20px
+}
+
+h2 {
+  color: #423213;
+  font-size: 15px
+}
+
+
+li {
+  display: inline;
+}
+
+ul {
+  padding: 0px;
+}
+
+ul > li > a {
+  font-size: 35px
+}
+
+.card {
+  /* background-color: #f5edce65; */
+  padding: 15px;
+  /* width: 800px; */
+  margin: 18px auto;
+  border-radius: 5px;
+  border: 2px solid #ffcc0030;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.122);
+}
+
+img {
+  border-radius: 75px;
+  box-shadow: 0 0 16px rgba(0,0,0,0.2);
+  border: 2px solid #ffcc0030;
+}
+
+#btn_black{
+  background-color:#FFB100;
+  color:black;
+  margin: 56px;
+  border-radius: 5px;
+  padding: 5px;
+  text-decoration: none;
+
+}
+
+#btn_black:hover{
+  background: underline;
+  background-color:#3C6255;
+
+}
+
+.btn_rs {
+  color: #FFB100;
+  text-decoration: none;
+  font-size: 30px
+}
+
+.btn_rs:hover {
+  text-decoration: underline;
+  color:#3C6255;
+  text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: 234px auto;
+}
+
+/* test */
